@@ -1,0 +1,69 @@
+file,page_start,page_end,type,date,fpn,notes
+NPFC_CM_00339_Release_01_Redacted.pdf,1,3,IRAT,2023-03-09,UCGPG23001,
+NPFC_CM_00339_Release_01_Redacted.pdf,4,6,IRAT,2023-03-27,UCGPJ23004,
+NPFC_CM_00339_Release_01_Redacted.pdf,7,10,Incident Report email,2022-11-22,UCGPJ23004,
+NPFC_CM_00339_Release_01_Redacted.pdf,11,11,NOFI,2022-11-22,UCGPJ23004,Refers to same incident as directly above
+NPFC_CM_00339_Release_01_Redacted.pdf,12,13,ORDER,2022-11-28,UCGPJ23004,Refers to NOFI directly above.
+NPFC_CM_00339_Release_01_Redacted.pdf,14,14,NFA,2022-12-01,UCGPJ23004,Refers to NOFI directly above.
+NPFC_CM_00339_Release_01_Redacted.pdf,15,15,CANAPS Response,?,UCGPJ23004,"Part of docs for FPN UCGPJ23004, but with erroneously issued FPN of UCGPC23008."
+NPFC_CM_00339_Release_01_Redacted.pdf,16,16,CANAPS Cancellation,?,UCGPJ23004,"Part of docs for FPN UCGPJ23004, but with erroneously issued FPN of UCGPC23008."
+NPFC_CM_00339_Release_01_Redacted.pdf,17,17,CANAPS Response,?,UCGPJ23004,Lists an incident date of 2022-11-30
+NPFC_CM_00339_Release_01_Redacted.pdf,18,18,ATP Letter,2022-12-01,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,19,19,Authorization to Proceed,2022-12-01,UCGPJ23004,
+NPFC_CM_00339_Release_01_Redacted.pdf,20,21,Situation Report,2022-12-02,UCGPJ23004,
+NPFC_CM_00339_Release_01_Redacted.pdf,22,24,Project Summary,2023-03-29,UCGPJ23004,
+NPFC_CM_00339_Release_01_Redacted.pdf,25,32,Order for Supplies or Services,2022-12-01,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,33,33,Invoice,2022-12-08,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,34,34,Invoice,2022-12-08,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,35,35,Invoice,2022-12-08,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,36,37,Invoice,2022-12-08,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,38,38,Contractor's Release,2023-04-10,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,39,40,Amendment of Solicitation,2023-04-13,UCGPJ23004,Contractor: Alaska Commercial Divers
+NPFC_CM_00339_Release_01_Redacted.pdf,41,46,IRAT,2023-01-11,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,47,47,CANAPS Response,2022-11-29,UCGPN23007,Date inferred from incident date and subsequent documents.
+NPFC_CM_00339_Release_01_Redacted.pdf,48,49,CANAPS email,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,50,50,Authorization to Proceed,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,51,53,Situation Report,2022-12-01,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,54,57,Project Summary,2023-01-19,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,58,59,Amendment of Solicitation,2023-02-02,UCGPN23007,Contractor: Enhanced Environmental & Emergency Services Inc
+NPFC_CM_00339_Release_01_Redacted.pdf,60,68,Order for Supplies or Services,2022-11-29,UCGPN23007,Contractor: Enhanced Environmental & Emergency Services Inc
+NPFC_CM_00339_Release_01_Redacted.pdf,69,69,Authorization to Proceed,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,70,70,Invoice,2022-12-06,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,71,74,Pollution Incident Daily Resource Report,2022-12-06,UCGPP23002,Date inferred from invoice date
+NPFC_CM_00339_Release_01_Redacted.pdf,75,75,Contractor's Release,2023-01-04,UCGPN23007,Contractor: Enhanced Environmental & Emergency Services Inc
+NPFC_CM_00339_Release_01_Redacted.pdf,76,79,Waste Manifest,2022-12-05,UCGPN23007,Sub-contractor: MacLand Disposal Center
+NPFC_CM_00339_Release_01_Redacted.pdf,80,81,Letter,2022-12-06,UCGPN23007,From: Enhanced Environmental & Emergency Services Inc
+NPFC_CM_00339_Release_01_Redacted.pdf,82,82,Subcontractor Approval,?,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,83,83,Invoice,2022-12-31,UCGPN23007,Sub-contractor: MacLand Disposal Center
+NPFC_CM_00339_Release_01_Redacted.pdf,84,84,Invoice,2022-11-30,UCGPN23007,Subcontractor: Liquid Environmental Solutions
+NPFC_CM_00339_Release_01_Redacted.pdf,85,85,NOFI,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,86,86,NOFI,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,87,87,NFA,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,88,88,NFA,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,89,89,NOFI,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,90,90,NOFI,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,91,91,NFA,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,92,92,NFA,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,93,93,Oil Pollution Statement,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,94,94,Oil Pollution Statement,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,95,95,Investigator Statement Form,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,96,96,Photographic Evidence Sheet,2022-11-29,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,97,98,Bill of Sale for Watercraft,?,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,99,99,USCG Vessel Identification System Results,?,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,100,101,Vessel Critical Profile,?,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,102,106,USCG Vessel Identification System Results,2023-01-11,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,107,107,Notice of Violation,2022-12-07,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,108,109,FPN Notification,2022-12-01,UCGPN23007,
+NPFC_CM_00339_Release_01_Redacted.pdf,110,112,IRAT,2023-10-16,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,113,117,Incident Report,2022-11-29,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,118,120,CANAPS email,2022-11-30,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,121,121,Authorization to Proceed,2022-11-30,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,122,122,Authorization to Proceed,2022-12-03,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,123,126,Situation Report,2023-01-11,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,127,133,Project Summary,2023-01-11,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,134,136,Pollution Incident Daily Resource Report,2022-11-30,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,137,137,Pollution Incident Daily Resource Report,2022-12-02,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,138,138,Pollution Incident Daily Resource Report,2022-12-05,UCGPP23002,
+NPFC_CM_00339_Release_01_Redacted.pdf,139,140,Invoice,2023-02-22,UCGPP23002,"Contractor: ACV Environmental Services, Inc. f/k/a Allstate Power Vac Inc"
+NPFC_CM_00339_Release_01_Redacted.pdf,141,149,Order for Supplies or Services,2022-11-30,UCGPP23002,Contractor: Clean Venture Inc
+NPFC_CM_00339_Release_01_Redacted.pdf,150,150,Contractor's Release,2023-04-25,UCGPP23002,Contractor: Clean Venture Inc D.B.A. ACV Enviro
